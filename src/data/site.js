@@ -7,11 +7,11 @@ export const site = {
   intro:
     'I build interactive digital experiences, mobile applications, and game-based applications with a focus on usability, performance, and creative design.',
   available: true,
-  email: 'rhoeltfe@gmail.com',
-  photo: art('Your photo', '#4b5bd6', '#0b1020'), // replace with '/me.jpg' (put file in /public)
+  email: 'rhoeltfernando@gmail.com',
+  photo: me.png, //art('Your photo', '#4b5bd6', '#0b1020'), // replace with '/me.jpg' (put file in /public)
   socials: {
     GitHub: 'https://github.com/sino-si-Taro',
-    LinkedIn: 'https://linkedin.com/in/your-username',
+    // LinkedIn: 'https://linkedin.com/in/your-username',
     Facebook: 'https://facebook.com/rhoeltfernandojr',
   },
   about: {
