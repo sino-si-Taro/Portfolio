@@ -1,4 +1,5 @@
 import { art } from './art'
+import mePhoto from './me.png'
 
 // ✏️ EDIT YOUR PERSONAL INFO HERE
 export const site = {
@@ -8,7 +9,7 @@ export const site = {
     'I build interactive digital experiences, mobile applications, and game-based applications with a focus on usability, performance, and creative design.',
   available: true,
   email: 'rhoeltfernando@gmail.com',
-  photo: me.png, //art('Your photo', '#4b5bd6', '#0b1020'), // replace with '/me.jpg' (put file in /public)
+  photo: mePhoto,
   socials: {
     GitHub: 'https://github.com/sino-si-Taro',
     // LinkedIn: 'https://linkedin.com/in/your-username',
